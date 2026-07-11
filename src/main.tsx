@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import { createHashRouter, RouterProvider } from 'react-router-dom';
 import './index.css';
 
 // Layouts
@@ -34,7 +34,7 @@ import { DeliveryManagement } from './pages/admin/DeliveryManagement';
 import { ReportsSection } from './pages/admin/ReportsSection';
 import { AdminSettings } from './pages/admin/AdminSettings';
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: '/',
     element: <RootLayout />,
