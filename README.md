@@ -2,7 +2,7 @@
 
 QuickBite is a modern, premium, production-ready, full-stack style Food Ordering Web Application built using React, TypeScript, Zustand, and Tailwind CSS. The app operates as a frontend-only platform using mock JSON data structure and browser state management.
 
-👉 **Preview Local Build**: `http://localhost:3000`
+🔗 **Live Demo**: [https://ragul77-coder.github.io/QuickBite/](https://ragul77-coder.github.io/QuickBite/) · **Code**: [https://github.com/Ragul77-coder/QuickBite](https://github.com/Ragul77-coder/QuickBite)
 
 ---
 
